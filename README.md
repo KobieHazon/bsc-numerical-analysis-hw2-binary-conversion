@@ -26,10 +26,14 @@ addpath('src')
 binary_convertor(10)
 ```
 
-This machine does not currently have Octave or MATLAB available in the shell, so the local validation performed for this revision is a static repository check rather than an execution check.
-
 ## Validate
 
 ```bash
 make check
+```
+
+With GNU Octave available, run the semantic conversion matrix with:
+
+```bash
+make test
 ```

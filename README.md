@@ -1,6 +1,6 @@
 # BSc Numerical Analysis - Binary Conversion
 
-- Course: BSc Computer Science.
+- Course: Numerical Analysis.
 
 ## Contents
 

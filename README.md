@@ -1,8 +1,6 @@
 # BSc Numerical Analysis - Binary Conversion
 
 - Course: BSc Computer Science.
-- Available copy: November 2019.
-- Assignment brief: The matching handout was not found.
 
 ## Contents
 
@@ -33,3 +31,7 @@ With GNU Octave available, run the semantic conversion matrix with:
 ```bash
 make test
 ```
+
+## Written work
+
+[My submitted written answers](solution/written-answers.pdf) accompanies the code.

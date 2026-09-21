@@ -1,5 +1,6 @@
-check:
-	python3 scripts/check_repository.py
+.PHONY: check test
+
+check: test
 
 test:
 	octave-cli --no-gui --quiet --no-init-file tests/test_binary_convertor.m

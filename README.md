@@ -22,11 +22,7 @@ binary_convertor(10)
 
 ## Validate
 
-```bash
-make check
-```
-
-With GNU Octave available, run the semantic conversion matrix with:
+With GNU Octave available, run the semantic conversion tests:
 
 ```bash
 make test
